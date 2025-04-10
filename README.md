@@ -1,6 +1,8 @@
 # Hi! 👋 My name is Nattapat Sureechairattanakul
 
-### Game Developer | Unity, C#
+# Game Developer | Unity, C#
+
+---
 
 # 👉 About Me
 I'm currently studying at Bangkok University, School of Information Technology and Innovation, majoring in Games and Interactive Media.
@@ -12,7 +14,7 @@ While I may not yet have professional work experience, I'm eager to apply my ski
 I'm committed to growing in the game industry and contributing as a valuable and enthusiastic team member.
 
 - 📍 Based in Pathum Thani, Thailand
-- 📋 [View my Resume](my-resume-link)
+- 📋 View my Resume[My Resume](my-resume-link)
 - 📧 Reach me at: **nattapat.suree@gmail.com**  
 - 📱 Contact me: **080-453-5514**  
 - 🧠 Currently improving Unity, C#, AR, VR, and game design skills  
