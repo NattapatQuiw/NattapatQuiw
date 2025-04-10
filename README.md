@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi! 👋 My name is Nattapat Sureechairattanakul
 
-<!--
-**NattapatQuiw/NattapatQuiw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Game Developer | Unity, C#
 
-Here are some ideas to get you started:
+# 👉 About Me
+I'm currently studying at Bangkok University, School of Information Technology and Innovation, majoring in Games and Interactive Media.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have the ability to develop games using Unity in 2D and AR (Augmented Reality) projects. I am passionate about creating games that engage and inspire players.
+
+While I may not yet have professional work experience, I'm eager to apply my skills and continue learning in real-world environments. I'm a collaborative team player who adapts easily to different personalities and group dynamics. I believe that teamwork is the key to achieving shared goals.
+
+I'm committed to growing in the game industry and contributing as a valuable and enthusiastic team member.
+
+- 📍 Based in Pathum Thani, Thailand
+- 📋 [View my Resume](my-resume-link)
+- 📧 Reach me at: **nattapat.suree@gmail.com**  
+- 📱 Contact me: **080-453-5514**  
+- 🧠 Currently improving Unity, C#, AR, VR, and game design skills  
+- 🤝 Open to collaborations on 2D and 3D indie game projects
+
+---
