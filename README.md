@@ -44,7 +44,6 @@ With renewed hope, he grips the flashlight tightly, ready to face the night and 
 - AR game development
 <img src="https://github.com/user-attachments/assets/c276a99c-dcdc-46a6-a4d2-4e6a649c3189" width="600"/>
 
-This game is the final project of Gi480 Augmented Reality and is still in development.
 
 [This game repository](https://github.com/NattapatQuiw/GhostlightDefender)
 
