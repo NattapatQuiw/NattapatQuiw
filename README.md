@@ -5,7 +5,7 @@
 ---
 
 # 👉 About Me
-I'm currently studying at Bangkok University, School of Information Technology and Innovation, majoring in Games and Interactive Media.
+I'm about to graduate at Bangkok University, School of Information Technology and Innovation, majoring in Games and Interactive Media.
 
 I have the ability to develop games using Unity in 2D and AR (Augmented Reality) projects. I am passionate about creating games that engage and inspire players.
 
