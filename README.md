@@ -61,4 +61,4 @@ With renewed hope, he grips the flashlight tightly, ready to face the night and 
 <img src="https://github.com/user-attachments/assets/1c8fe1ce-0960-4db9-ab16-c5d7628fab57" width="400"/>
 <img src="https://github.com/user-attachments/assets/eb617585-2a65-4f67-a938-36f0ba74a344" width="500"/>
 
-You can [play Stomach Struggle on Itch.io.](https://plagrob555.itch.io/bullethell)
+You can [play BulleHell on Itch.io.](https://plagrob555.itch.io/bullethell)
