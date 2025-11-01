@@ -22,6 +22,18 @@ I'm committed to growing in the game industry and contributing as a valuable and
 
 ---
 
+# :notebook: Work Experience
+## 💼 MR/VR/AR Developer (Unity Developer)
+
+### **Incamtec** | *Contract 6 month*
+
+- Developed an interactive **Fossil Excavation** application using **Unity** for **PICO 4 Ultra (Mixed Reality)** devices.  
+- Programmed **excavation tool mechanics**, **audio management systems**, and **UI/UX interfaces** optimized for XR environments.  
+- Designed and implemented **in-app control systems**, ensuring smooth interaction in MR.  
+- Created **user manuals**, **tutorial videos**, and **wireframes** for multiple applications.  
+- Conducted **3D model validation** and prepared detailed **revision documents** for outsourced modeling teams.  
+
+---
 # 🖥️ Project
 ## 🥢 Stomach Struggle (PC & Android) | Thesis Project
 - Worked as Game Developer
