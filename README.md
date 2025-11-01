@@ -9,7 +9,8 @@ I’m a graduate at Bangkok University, School of Information Technology and Inn
 
 I have the ability to develop games using Unity in 2D and AR (Augmented Reality) projects. I am passionate about creating games that engage and inspire players.
 
-While I may not yet have professional work experience, I'm eager to apply my skills and continue learning in real-world environments. I'm a collaborative team player who adapts easily to different personalities and group dynamics. I believe that teamwork is the key to achieving shared goals.
+I’ve been developing MR/VR/AR applications using Unity, contributing to gameplay systems, audio integration, and user experience design.
+I’m a collaborative team player who adapts easily to different personalities and workflows, and I strongly believe that teamwork and communication are the keys to achieving shared goals.
 
 I'm committed to growing in the game industry and contributing as a valuable and enthusiastic team member.
 
