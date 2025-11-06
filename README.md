@@ -1,7 +1,5 @@
 # Hi! 👋 My name is Nattapat Sureechairattanakul
 
-# Game Developer | Unity, C#
-
 ---
 
 # 👉 About Me
