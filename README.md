@@ -13,7 +13,7 @@ I’m a collaborative team player who adapts easily to different personalities a
 I'm committed to growing in the game industry and contributing as a valuable and enthusiastic team member.
 
 - 🏡 Based in Pathum Thani, Thailand
-- 📋 View my Resume[My Resume](https://www.canva.com/design/DAGkThoBIt8/ReJDpUxNXuKtuL5K8iG1EA/view?utm_content=DAGkThoBIt8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h161c1ce562)
+- 📋 View my Resume[My Resume](https://www.canva.com/design/DAG3prDt0mc/h7Ap3SDh_GkU1s6Qpbi4hA/view?utm_content=DAG3prDt0mc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1f6c038dbc)
 - 📧 Reach me at: **nattapat.suree@gmail.com**  
 - 📱 Contact me: **080-453-5514**  
 - 🧠 Currently improving Unity, C#, AR, VR, and game design skills  
